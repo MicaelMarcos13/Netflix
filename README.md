@@ -9,5 +9,5 @@
 <p>JavaScript</p>
 <br>
 <br>
-<img src="https://1drv.ms/i/c/fbffba018b2599e6/EYCXqrx585lKkKtsHy7sD9gB2r_9oXmT7Rn7upKQ1seJWA?e=EfT0Id">
+<img src="https://github.com/MicaelMarcos13/Netflix/blob/main/img/Captura%20de%20tela%202024-12-05%20155636.png?raw=true">
 
