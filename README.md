@@ -10,4 +10,7 @@
 <br>
 <br>
 <img src="https://github.com/MicaelMarcos13/Netflix/blob/main/img/Captura%20de%20tela%202024-12-05%20155636.png?raw=true">
+<br>
+<br>
+<h2>Segue o Link, avaliem lá. <a href="https://micaelmarcos13.github.io/Netflix/">Projeto Netflix</a> </h2> 
 
